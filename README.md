@@ -1,4 +1,4 @@
-🧮 Calculadora Interactiva
+# 🧮 Calculadora Interactiva
 
 Este proyecto es una aplicación de calculadora interactiva desarrollada con Vue.js. Los usuarios pueden realizar operaciones matemáticas básicas de manera dinámica y sencilla desde su navegador. ¡Haz cálculos de forma rápida y eficiente!
 
@@ -39,7 +39,7 @@ CSS 🎨
 🤖 Funcionalidad de historial persistente: Permitir a los usuarios guardar el historial de cálculos entre sesiones.
 
 📄 Usa la aplicación
-Abre el siguiente enlace en tu  un navegador.
+Abre el siguiente enlace https://678d49b23d89b773d0fd517d--spiffy-cassata-dc43e3.netlify.app/ en tu navegador.
 Ingresa los números en los campos correspondientes.
 Selecciona la operación deseada y haz clic en el botón correspondiente.
 Visualiza el resultado en la pantalla.
@@ -65,4 +65,4 @@ npm run build
 🙌 Créditos
 Desarrollado por Lernik Gasparyan.
 
-# Calculadora-Vue
+
